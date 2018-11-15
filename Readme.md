@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Animate3DSeries/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Animate3DSeries/MainWindow.xaml))
+<!-- default file list end -->
 # How to animate a 3D chart  series 
 
 
