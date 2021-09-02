@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animate3DSeries", "Animate3DSeries\Animate3DSeries.csproj", "{4E4E69CC-B0EC-4DB4-997C-56CA2E1B437E}"
 EndProject
 Global
